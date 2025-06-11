@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389810995673",
+    "project_id": "fila-d7826",
+    "storage_bucket": "fila-d7826.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389810995673:android:4975bd2c15ee91755159c8",
+        "android_client_info": {
+          "package_name": "com.example.aplicativodefila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIt5Ied3nX7RLBG6Cmf6rDyMOUlQ04qUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

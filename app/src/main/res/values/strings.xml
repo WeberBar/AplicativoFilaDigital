@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Aplicativo de fila</string>
+    <string name="selecione_tipo">Selecione o tipo de conta</string>
+    <string-array name="tipos_conta">
+        <item>Usuário</item>
+        <item>Empresa</item>
+    </string-array>
+
 </resources>
